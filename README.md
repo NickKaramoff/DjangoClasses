@@ -1,4 +1,9 @@
 # DjangoClasses
+🎓 Repository of classwork and homework done at the Python & Django course
+
+**Lecturer:** Abramsky M. M.
+
+## Table of contents
 
 1. *Python basics*
 2. *Pygame examples*
