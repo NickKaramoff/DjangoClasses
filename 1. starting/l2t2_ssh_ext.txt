@@ -1,0 +1,6 @@
+git@github.com:jsdom/js-symbol-tree.git
+git@github.com:tmcw/wcag-contrast.git
+git@github.com:MarselSidikov/11-802.git
+git@github.com:edx/xqueue-watcher.git
+git@github.com:edx/codejail.git
+git@github.com:romannurik/automessage.git
