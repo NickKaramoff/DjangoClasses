@@ -6,5 +6,5 @@ def task_four(numbers, m, k):
     return amt <= k
 
 
-print(task_four((12,34,56,78), 20, 3))
-print(task_four((12,34,56,78), 20, 2))
+print(task_four((12, 34, 56, 78), 20, 3))
+print(task_four((12, 34, 56, 78), 20, 2))

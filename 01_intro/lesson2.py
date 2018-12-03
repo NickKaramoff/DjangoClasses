@@ -1,6 +1,3 @@
-import re
-
-
 # def task1(filename):
 #     file = open(filename)
 #     spaces = 0
@@ -90,7 +87,7 @@ def task3(filename):
     }
 
     for line in file:
-        number = line.strip() # Убираем пробелы по краям и символы конца строк
+        number = line.strip()  # Убираем пробелы по краям и символы конца строк
         result = 0  # Будущее число
 
         for i in range(0, len(number) - 1):

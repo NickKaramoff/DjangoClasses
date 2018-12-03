@@ -1,0 +1,3 @@
+[submodule "03_pytron"]
+	path = 03_pytron
+	url = https://github.com/NickKaramoff/pyTRON.git

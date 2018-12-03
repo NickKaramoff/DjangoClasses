@@ -1,0 +1,8 @@
+Mon
+12:00-13:30	P.E.	Mustafin
+14:00-15:30	Elective Course	Abramsky
+15:40-17:10	Elective Course	Abramsky
+Tue
+08:30	English	Salyakhova
+10:10	Informatics	Sidikov
+11:50-13:20	Theory of Probabilities	Strebkov
